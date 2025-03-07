@@ -4,6 +4,8 @@
 
 ## Overview
 
+Extract the given file form google drive : https://drive.google.com/file/d/1qKuXbkyZp-LSFvepaiOheJQyiqBfz-Uc/view?usp=drive_link
+
 WeedAI is a modern web application for detecting and analyzing weeds in agricultural fields. It uses YOLO machine learning algorithms to process images, identify weed types, assess their maturity levels, and provide actionable insights for farmers and agricultural specialists.
 
 ## Features
